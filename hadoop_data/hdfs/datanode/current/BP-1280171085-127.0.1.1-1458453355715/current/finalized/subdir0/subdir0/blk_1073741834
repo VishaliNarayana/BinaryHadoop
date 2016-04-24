@@ -1,0 +1,1 @@
+[jobId=job_1458532213727_0005,submitTime=1458539040924,launchTime=1458539053525,firstMapTaskLaunchTime=1458539056068,firstReduceTaskLaunchTime=1458539071834,finishTime=1458539080729,resourcesPerMap=1024,resourcesPerReduce=1024,numMaps=2,numReduces=1,user=vishal,queue=default,status=SUCCEEDED,mapSlotSeconds=26,reduceSlotSeconds=8,jobName=WordCount
